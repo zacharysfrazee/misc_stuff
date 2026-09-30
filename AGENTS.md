@@ -297,6 +297,7 @@ def draw_text(
 ):
     """Draws readable text with a small shadow."""
     ...
+```
 
 #### Use vertical space when trying to avoid long lines of code
 
